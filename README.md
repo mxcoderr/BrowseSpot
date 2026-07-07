@@ -1,4 +1,6 @@
 # BrowseSpot
+[RU](README-RU.md)
+
 Browse Spot - a open source lightweight search engine written in Rust. 
 
 **Pros**:
