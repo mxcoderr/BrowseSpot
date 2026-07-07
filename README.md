@@ -29,7 +29,7 @@ Small community; there may be bugs,other problems
 
 1. The user enters a query, for example: `youtube`.
 2. BrowseSpot searches its own database for matching site names.
-3. Candidate matches are identified using a trigram index instead of a linear scan.
+3. Candidate matches are identified using a trigram alghoritm instead of a linear scan.
 4. The candidates are ranked using the Levenshtein distance algorithm.
 5. Only results with a similarity score of **50% or higher** are considered valid matches.
 6. The top **N** results are returned to the user.
