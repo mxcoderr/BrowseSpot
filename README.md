@@ -7,7 +7,7 @@ Browse Spot - a lightweight search engine written in Rust.
 
 a full-fledged search engine with its own databaseбnot just a metasearch engine unlike SearxNG and many other search engines (I still don't see the point of metasearch engines - all they do is spit out links to other search engines, so it's basically just search-engine advertising)
 
-2. No AI — predictable, transparent search
+2. No AI - predictable, transparent search
 
  without AI and not agent-ready (LLM developers: using BrowseSpot is contraindicated for your models.)
 
