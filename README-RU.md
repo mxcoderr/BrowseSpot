@@ -34,4 +34,5 @@ BrowseSpot - легковесная поисковая система, напи�
 
 ## Используемый стек
 **Frontend**: Vue, JavaScript (Извините, я плох в TypeScript).
+
 **Backend**: Rust, Axum.
