@@ -1,5 +1,5 @@
 # BrowseSpot
-Browse Spot - a lightweight search engine written in Rust. 
+Browse Spot - a open source lightweight search engine written in Rust. 
 
 **Pros**:
 
