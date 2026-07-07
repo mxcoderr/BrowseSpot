@@ -36,4 +36,5 @@ Small community; there may be bugs,other problems
 
 ## Stack used
 **Frontend**: Vue, JavaScript (Sorry, I'm not very good at TypeScript.)
+
 **Backend**: Rust,Axum 
